@@ -1,0 +1,9 @@
+{
+    "id" : "GenericRocks",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "GenericRocks",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
