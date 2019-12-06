@@ -1,0 +1,9 @@
+/**
+ * Hardened clay is clay that has been solidified by high temperature or pressure.
+ */
+{
+    "basedOn":"CoreAssets:rock",
+    "categories":["rock", "sedimentary", "claystone"],
+    "mass":150,
+    "hardness":15
+}
