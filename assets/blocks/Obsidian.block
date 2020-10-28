@@ -1,0 +1,9 @@
+/**
+ * Obsidian is a rock made when lava is cooled very rapidly with little crystal formation
+ */
+{
+    "basedOn":"CoreAssets:rock2",
+    "categories":["volcanic"],
+    "mass":140,
+    "hardness":20
+}
