@@ -1,0 +1,9 @@
+/**
+ *  Tachylite is an volcanic glass made by moltan basalt cooling.
+ */
+{
+    "basedOn" : "CoreAssets:rock3",
+    "categories" : ["rock", "rock2", "rock3", "volcanic"],
+    "hardness" : 720,
+    "mass" : 300
+}

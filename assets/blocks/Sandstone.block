@@ -1,0 +1,9 @@
+/**
+ * Sandstone forms when sand grains are pressed together by pressure
+ */
+{
+    "basedOn":"CoreAssets:rock",
+    "categories":["soil", "sand", "sediment"],
+    "mass":100,
+    "hardness":12
+}

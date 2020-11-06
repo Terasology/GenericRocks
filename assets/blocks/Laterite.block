@@ -1,0 +1,9 @@
+/**
+ * Laterite is a redish stone that is soft and has high iron oxide contents.
+ */
+{
+    "basedOn":"CoreAssets:rock",
+    "categories":["rock", "sedimentary", "claystone"],
+    "mass":150,
+    "hardness":15
+}
