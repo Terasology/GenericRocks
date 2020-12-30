@@ -1,11 +1,14 @@
 {
-    "id" : "GenericRocks",
-    "version" : "1.0.0",
-    "author" : "Qwertygiy",
-    "displayName" : "Generic Rocks",
-    "description" : "A collection of simple stone types",
-    "dependencies" : [
-        {"id": "CoreAssets", "minVersion": "2.0.0"}
-    ],
-    "serverSideOnly" : false
+  "id": "GenericRocks",
+  "version": "1.1.0-SNAPSHOT",
+  "author": "Qwertygiy",
+  "displayName": "Generic Rocks",
+  "description": "A collection of simple stone types",
+  "dependencies": [
+    {
+      "id": "CoreAssets",
+      "minVersion": "2.0.0"
+    }
+  ],
+  "serverSideOnly": false
 }
